@@ -41,10 +41,4 @@ export default function App() {
   )
 }
 
-const estilos = StyleSheet.create({
-  vistas:{
-    flex: 1,
-    alignItems:"center",
-    justifyContent:"center"
-  }
-})
+
